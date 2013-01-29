@@ -15,7 +15,7 @@ module BigosTwitterBox
         Setting["#{BigosTwitterBox.name}.oauth_token"] = "YOUR OAUTH TOKEN"
         Setting["#{BigosTwitterBox.name}.oauth_token_secret"] = "YOUR OAUTH TOKEN SECRET"
         Setting["#{BigosTwitterBox.name}.twitter_login"] = "TWITTER LOGIN"
-        Setting["#{BigosTwitterBox.name}.twitter_posts"] = "POSTS COUNT"
+        Setting["#{BigosTwitterBox.name}.twitter_posts"] = 3
         BigosApp::InstalledModule.create(name: BigosTwitterBox.name, page_element: BigosApp::BigosTwitterBoxElement.name)
       end
     end

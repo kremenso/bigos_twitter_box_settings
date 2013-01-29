@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b8b536-83fb-4e78-81f0-1cb7b87693d0" name="Default" comment="" />
+    <list default="true" id="14b8b536-83fb-4e78-81f0-1cb7b87693d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/bigos_twitter_box/controllers/helpers.rb" afterPath="$PROJECT_DIR$/lib/bigos_twitter_box/controllers/helpers.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb" afterPath="$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb" />
+    </list>
     <ignored path="bigos_twitter_box_settings.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +25,16 @@
       <file leaf-file-name="install_generator.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="54" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
+            <state line="17" column="8" selection-start="773" selection-end="821" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpers.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/bigos_twitter_box/controllers/helpers.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="70" selection-start="713" selection-end="713" vertical-scroll-proportion="0.6311881">
               <folding />
             </state>
           </provider>
@@ -37,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setting.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="setting.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/bigos_twitter_box/setting.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
@@ -69,10 +81,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/generators/templates/bigos_twitter_box.rb" />
-        <option value="$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb" />
         <option value="$PROJECT_DIR$/app/models/bigos_app/bigos_twitter_box_element.rb" />
         <option value="$PROJECT_DIR$/app/views/bigos_twitter_box/_item.html.erb" />
         <option value="$PROJECT_DIR$/app/models/bigos_twitter_box/setting.rb" />
+        <option value="$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb" />
+        <option value="$PROJECT_DIR$/lib/bigos_twitter_box/controllers/helpers.rb" />
       </list>
     </option>
   </component>
@@ -193,6 +206,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="generators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box_settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box_settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box_settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box_settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bigos_twitter_box" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -563,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="54" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/bigos_twitter_box/_item.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
@@ -587,6 +633,20 @@
     <entry file="file://$PROJECT_DIR$/app/models/bigos_twitter_box/setting.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generators/bigos_twitter_box/install_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="773" selection-end="821" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bigos_twitter_box/controllers/helpers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="70" selection-start="713" selection-end="713" vertical-scroll-proportion="0.6311881">
           <folding />
         </state>
       </provider>
